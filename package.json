@@ -1,0 +1,18 @@
+{
+  "name": "1.0",
+  "version": "1.0.0",
+  "description": "CV",
+  "main": "main.js",
+  "dependencies": {},
+  "devDependencies": {
+    "connect-history-api-fallback": "^1.3.0",
+    "gulp": "^3.9.1",
+    "gulp-connect": "^5.0.0",
+    "jquery": "^3.1.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Miguel Villafuerte",
+  "license": "ISC"
+}
