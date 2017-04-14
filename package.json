@@ -13,6 +13,10 @@
   "scripts": {
     "test": ""
   },
+  "repository": {
+    "type": "git",
+    "url": "git:github.com:mvillafuertem/portfolio-ci-example.git"
+  },
   "author": "Miguel Villafuerte",
   "license": "ISC"
 }
