@@ -1,4 +1,4 @@
-image:https://travis-ci.org/mvillafuertem/portfolio.svg?branch=master["Build Status", link="https://travis-ci.org/mvillafuertem/portfolio"]
+image:https://travis-ci.org/mvillafuertem/javascript-portfolio.svg?branch=master["Build Status", link="https://travis-ci.org/mvillafuertem/javascript-portfolio"]
 image:https://coveralls.io/repos/github/mvillafuertem/portfolio-ci-example/badge.svg?branch=master[link="https://coveralls.io/github/mvillafuertem/portfolio-ci-example"]
 
 image::https://github.com/mvillafuertem/portfolio/blob/master/screenshot/screenshot1.png[Screenshot 1]
